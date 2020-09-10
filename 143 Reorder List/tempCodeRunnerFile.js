@@ -1,0 +1,1 @@
+    let midNode = findMid(head)
